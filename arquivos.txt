@@ -9,5 +9,19 @@
 25/10/2017  21:43                55 Readme.md
                2 arquivo(s)             55 bytes
                2 pasta(s)   17.178.480.640 bytes dispon¡veis
+<<<<<<< HEAD
 
 OK OK
+=======
+ O volume na unidade F ‚ Maq. Virtual
+ O N£mero de S‚rie do Volume ‚ 0A15-8EF8
+
+ Pasta de F:\bgit
+
+25/10/2017  21:56    <DIR>          .
+25/10/2017  21:56    <DIR>          ..
+25/10/2017  21:56               392 arquivos.txt
+25/10/2017  21:43                55 Readme.md
+               2 arquivo(s)            447 bytes
+               2 pasta(s)   17.178.476.544 bytes dispon¡veis
+>>>>>>> testing
